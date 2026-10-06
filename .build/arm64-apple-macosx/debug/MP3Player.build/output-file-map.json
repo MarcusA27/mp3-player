@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/primary.swiftdeps"
+  },
+  "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/App.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/App.d",
+    "object": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/App.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/App~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/App.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/App.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/AudioPlayer.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/AudioPlayer.d",
+    "object": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/AudioPlayer.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/AudioPlayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/AudioPlayer.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/AudioPlayer.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/ContentView.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/ContentView.d",
+    "object": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/ContentView.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/ContentView.dia"
+  },
+  "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/Track.swift": {
+    "dependencies": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/Track.d",
+    "object": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/Track.swift.o",
+    "swiftmodule": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/Track~partial.swiftmodule",
+    "swift-dependencies": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/Track.swiftdeps",
+    "diagnostics": "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/Track.dia"
+  }
+}

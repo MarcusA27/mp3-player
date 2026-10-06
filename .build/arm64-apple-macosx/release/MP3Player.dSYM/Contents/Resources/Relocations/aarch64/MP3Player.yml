@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/release/MP3Player'
+relocations:     []
+...

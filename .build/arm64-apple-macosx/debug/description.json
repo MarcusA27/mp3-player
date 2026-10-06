@@ -1,0 +1,308 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.MP3Player-arm64-apple-macosx-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/sources",
+      "importPath" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/App.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/AudioPlayer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/Track.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "MP3Player",
+      "moduleOutputPath" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/Modules/MP3Player.swiftmodule",
+      "objects" : [
+        "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/App.swift.o",
+        "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/AudioPlayer.swift.o",
+        "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/ContentView.swift.o",
+        "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/Track.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx14.0",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "MP3Player_main",
+        "-swift-version",
+        "6",
+        "-plugin-path",
+        "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "mp3_player"
+      ],
+      "outputFileMapPath" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/App.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/AudioPlayer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/Track.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/Modules/MP3Player.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/App.swift",
+        "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/AudioPlayer.swift",
+        "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/ContentView.swift",
+        "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/Track.swift"
+      ],
+      "tempsPath" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "MP3Player" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "MP3Player",
+      "-package-name",
+      "mp3_player",
+      "-c",
+      "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/App.swift",
+      "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/AudioPlayer.swift",
+      "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/ContentView.swift",
+      "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/Track.swift",
+      "-I",
+      "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx14.0",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j8",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "MP3Player_main",
+      "-swift-version",
+      "6",
+      "-plugin-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "mp3_player",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "MP3Player" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player-entitlement.plist"
+    },
+    "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/App.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/AudioPlayer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/Sources/MP3Player/Track.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/sources"
+    },
+    "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/App.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/AudioPlayer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.build/Track.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/MP3Player.product/Objects.LinkFileList"
+    },
+    "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/marcusarocha/Projects/Code/mp3-player/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}
